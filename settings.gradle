@@ -1,0 +1,3 @@
+include ':ProgressFloatingActionButton'
+include ':app'
+rootProject.name = "ProgressFloatingActionButtonExample"

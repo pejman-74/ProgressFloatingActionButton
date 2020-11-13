@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ProgressFloatingActionButton">
+        <attr name="pfab_color" format="color"/>
+        <attr name="pfab_margin" format="dimension"/>
+        <attr name="pfab_width" format="dimension"/>
+        <attr name="pfab_startAngel" format="float"/>
+        <attr name="pfab_animationDuration" format="integer"/>
+        <attr name="pfab_arcProportion" format="float"/>
+        <attr name="pfab_showEditModePreview" format="boolean"/>
+    </declare-styleable>
+
+</resources>
