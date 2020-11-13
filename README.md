@@ -1,3 +1,5 @@
+[![](https://jitpack.io/v/pejman-74/ProgressFloatingActionButton.svg)](https://jitpack.io/#pejman-74/ProgressFloatingActionButton)
+
 # ProgressFloatingActionButton
 
 # Requirements
@@ -10,16 +12,16 @@ The library requires Android **API Level 14+**.
 Add it in your root build.gradle at the end of repositories:
 ```
 allprojects {
-		repositories {
-			...
-			maven { url 'https://jitpack.io' }
-		}
+	repositories {
+		...
+		maven { url 'https://jitpack.io' }
+	}
 	}
 ```
 Add a dependency to your `build.gradle`:
 ```
 dependencies {
-    compile 'com.github.pejman-74:ProgressFloatingActionButton:1.0'
+   implementation 'com.github.pejman-74:ProgressFloatingActionButton:v1.0'
 }
 ```
 
